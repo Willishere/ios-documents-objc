@@ -15,6 +15,7 @@
 		9E2C126723736F370083EF4E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9E2C126623736F370083EF4E /* main.m */; };
 		9E2C1272237371490083EF4E /* MBTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9E2C1271237371490083EF4E /* MBTableViewController.m */; };
 		9E2C1275237374560083EF4E /* WCViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9E2C1274237374560083EF4E /* WCViewController.m */; };
+		9E2C12782373769B0083EF4E /* NSString+WCWordCount.m in Sources */ = {isa = PBXBuildFile; fileRef = 9E2C12772373769B0083EF4E /* NSString+WCWordCount.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,8 @@
 		9E2C1271237371490083EF4E /* MBTableViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MBTableViewController.m; sourceTree = "<group>"; };
 		9E2C1273237374560083EF4E /* WCViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WCViewController.h; sourceTree = "<group>"; };
 		9E2C1274237374560083EF4E /* WCViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WCViewController.m; sourceTree = "<group>"; };
+		9E2C12762373769B0083EF4E /* NSString+WCWordCount.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSString+WCWordCount.h"; sourceTree = "<group>"; };
+		9E2C12772373769B0083EF4E /* NSString+WCWordCount.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSString+WCWordCount.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +75,8 @@
 				9E2C1274237374560083EF4E /* WCViewController.m */,
 				9E2C1270237371490083EF4E /* MBTableViewController.h */,
 				9E2C1271237371490083EF4E /* MBTableViewController.m */,
+				9E2C12762373769B0083EF4E /* NSString+WCWordCount.h */,
+				9E2C12772373769B0083EF4E /* NSString+WCWordCount.m */,
 				9E2C125D23736F340083EF4E /* Main.storyboard */,
 				9E2C126023736F370083EF4E /* Assets.xcassets */,
 				9E2C126223736F370083EF4E /* LaunchScreen.storyboard */,
@@ -154,6 +159,7 @@
 				9E2C1275237374560083EF4E /* WCViewController.m in Sources */,
 				9E2C1272237371490083EF4E /* MBTableViewController.m in Sources */,
 				9E2C125623736F340083EF4E /* AppDelegate.m in Sources */,
+				9E2C12782373769B0083EF4E /* NSString+WCWordCount.m in Sources */,
 				9E2C126723736F370083EF4E /* main.m in Sources */,
 				9E2C125923736F340083EF4E /* SceneDelegate.m in Sources */,
 			);
