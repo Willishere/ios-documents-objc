@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  WCViewController.h
 //  Documents ObjC
 //
 //  Created by William Chen on 11/6/19.
@@ -8,8 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+
+@interface WCViewController : UIViewController
 
 
 @end
+
 
