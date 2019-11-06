@@ -15,6 +15,7 @@
 @property (nonatomic, copy) NSString *body;
 @property (nonatomic) NSUInteger *wordCount;
 
--(instancetype)initWTitle: (NSString *)title body: (NSString *)body;
+-(instancetype)initWithTitle: (NSString *)title body: (NSString *)body;
+
 @end
 

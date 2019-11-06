@@ -17,6 +17,7 @@
 		9E2C1275237374560083EF4E /* WCViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9E2C1274237374560083EF4E /* WCViewController.m */; };
 		9E2C12782373769B0083EF4E /* NSString+WCWordCount.m in Sources */ = {isa = PBXBuildFile; fileRef = 9E2C12772373769B0083EF4E /* NSString+WCWordCount.m */; };
 		9E2C127B23737B860083EF4E /* WCDocument.m in Sources */ = {isa = PBXBuildFile; fileRef = 9E2C127A23737B860083EF4E /* WCDocument.m */; };
+		9E2C127E23737F400083EF4E /* WCDocumentController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9E2C127D23737F400083EF4E /* WCDocumentController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,8 @@
 		9E2C12772373769B0083EF4E /* NSString+WCWordCount.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSString+WCWordCount.m"; sourceTree = "<group>"; };
 		9E2C127923737B860083EF4E /* WCDocument.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WCDocument.h; sourceTree = "<group>"; };
 		9E2C127A23737B860083EF4E /* WCDocument.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WCDocument.m; sourceTree = "<group>"; };
+		9E2C127C23737F400083EF4E /* WCDocumentController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WCDocumentController.h; sourceTree = "<group>"; };
+		9E2C127D23737F400083EF4E /* WCDocumentController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WCDocumentController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +77,8 @@
 				9E2C127923737B860083EF4E /* WCDocument.h */,
 				9E2C127A23737B860083EF4E /* WCDocument.m */,
 				9E2C125523736F340083EF4E /* AppDelegate.m */,
+				9E2C127C23737F400083EF4E /* WCDocumentController.h */,
+				9E2C127D23737F400083EF4E /* WCDocumentController.m */,
 				9E2C125723736F340083EF4E /* SceneDelegate.h */,
 				9E2C125823736F340083EF4E /* SceneDelegate.m */,
 				9E2C1273237374560083EF4E /* WCViewController.h */,
@@ -167,6 +172,7 @@
 				9E2C12782373769B0083EF4E /* NSString+WCWordCount.m in Sources */,
 				9E2C126723736F370083EF4E /* main.m in Sources */,
 				9E2C127B23737B860083EF4E /* WCDocument.m in Sources */,
+				9E2C127E23737F400083EF4E /* WCDocumentController.m in Sources */,
 				9E2C125923736F340083EF4E /* SceneDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
