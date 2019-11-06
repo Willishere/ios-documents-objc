@@ -7,10 +7,13 @@
 //
 
 #import <UIKit/UIKit.h>
-
+#import "WCDocument.h"
+#import "WCDocumentController.h"
 
 @interface WCViewController : UIViewController
 
+@property (nonatomic) WCDocument *document;
+@property (nonatomic) WCDocumentController *documentController;
 
 @end
 
