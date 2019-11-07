@@ -10,7 +10,7 @@
 #import "WCDocument.h"
 #import "WCDocumentController.h"
 
-@interface WCViewController : UIViewController
+@interface WCViewController : UIViewController <UITextViewDelegate>
 
 @property (nonatomic) WCDocument *document;
 @property (nonatomic) WCDocumentController *documentController;

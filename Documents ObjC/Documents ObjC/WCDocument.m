@@ -10,7 +10,7 @@
 #import "NSString+WCWordCount.h"
 
 @implementation WCDocument
--(instancetype)initWTitle: (NSString *)title body: (NSString *)body{
+-(instancetype)initWithTitle: (NSString *)title body: (NSString *)body{
     self = [super init];
     if (self) {
         _title = title;
